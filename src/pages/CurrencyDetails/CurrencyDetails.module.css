@@ -1,0 +1,14 @@
+
+.details__section{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.button-add{
+    padding: .5em 1em;
+    color: white;
+    font-size: 1.7rem;
+    align-self: flex-start;
+    background: linear-gradient(to bottom right, #339af0, #4263eb);
+}

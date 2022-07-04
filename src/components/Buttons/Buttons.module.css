@@ -1,0 +1,18 @@
+.button{
+    padding: .5em 1em;
+    color: white;
+    display: flex;
+    justify-content: right;
+    font-size: 1.7rem;
+    align-self: end;
+    border: none;
+}
+
+.button-login{
+    background: linear-gradient(to bottom right, #51cf66, #0ca678);
+}
+
+.button-logout{
+    background: linear-gradient(to bottom right,#ff6b6b, #f76707);
+
+}

@@ -1,0 +1,24 @@
+.app {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  min-height: 100vh;
+  padding-top: 20rem;
+}
+
+.app__link{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 1.5rem;
+}
+
+.nav{
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  font-size: 1.5rem;
+
+}
+
